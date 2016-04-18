@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Compras App</string>
+    <string name="item">Article</string>
+    <string name="value">Value</string>
+    <string name="next">Next</string>
+    <string name="car">Shopping car</string>
+    <string name="resume">Resume</string>
+
+</resources>
